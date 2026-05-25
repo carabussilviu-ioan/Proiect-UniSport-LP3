@@ -1,0 +1,5 @@
+user_id,password,role,email,created_at
+admin,admin123,admin,admin@upt.ro,2026-05-23 20:49:46
+silviu,silviu123,student,silviu.carabus@student.upt.ro,2026-05-23 20:49:46
+sergiu,sergiu123,student,sergiu.dancau@student.upt.ro,2026-05-23 20:49:46
+antonio,antonio123,student,alexandru.dincea@student.upt.ro,2026-05-23 20:49:46

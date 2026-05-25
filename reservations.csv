@@ -1,0 +1,4 @@
+reservation_id,user_id,location,date,start_hour,end_hour,status,created_at
+1,silviu,Sala Amfiteatru B1,2026-05-23,16,18,confirmed,2026-05-23 20:50:02
+2,sergiu,Lab C1,2026-05-24,12,14,confirmed,2026-05-24 18:03:11
+3,silviu,Sala Amfiteatru B1,2026-05-25,10,12,confirmed,2026-05-25 21:22:11

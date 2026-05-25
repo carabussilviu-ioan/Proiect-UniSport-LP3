@@ -1,0 +1,7 @@
+facility_id,name,description,capacity,opening_hour,closing_hour
+1,Sala Polivalentă A1,Sală polivalentă cu parchet,500,8,22
+2,Sala Curs B2,Sală de curs standard,100,8,22
+3,Lab C1,Laborator cu calculatoare și echipamente,50,8,22
+4,Teren Fotbal,Teren fotbal profesional,1000,8,22
+5,Teren Tenis,Teren tenis profesional,200,8,22
+6,Teren Baschet,Teren baschet cu tablă și iluminare,500,8,22
